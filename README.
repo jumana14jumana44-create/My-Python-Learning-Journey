@@ -1,0 +1,55 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 🐍 My Python Learning Journey: [Your Chosen Account Name]
+
+This repository documents my self-learning trajectory in Computer Science fundamentals and Python programming, executed with the goal of building a robust portfolio for academic scholarships.
+
+## 🎯 Profile & Long-Term Goal
+
+| Aspect | Detail |
+| :--- | :--- |
+| **Age** | 15 years old |
+| **Current Stage** | Common Core (Jad'a Mushtarak) Student, Morocco |
+| **Focus Language** | Python |
+| **Long-Term Goal** | Securing an academic scholarship to study **Computer Science** abroad (starting in 3 years). |
+
+---
+
+## 📈 Learning Roadmap & Progress
+
+I approach learning Python in a structured, modular way, ensuring that theoretical knowledge is immediately applied and documented.
+
+### Phase 1: Core Programming Fundamentals (In Progress)
+
+This phase establishes the foundational logic necessary for any programming language.
+
+| Folder | Core Concepts Covered | Key Achievements |
+| :--- | :--- | :--- |
+| **01\_Python\_Basics** | Variables, Data Types, Input/Output, Conditional Statements (`if/elif/else`). | Successfully implemented decision-making logic and basic data handling. |
+| **02\_Control\_Flow** | Loops (`while/for`), Functions (`def`), and Parameters. | Built reusable functions and automated repetitive tasks. |
+| **03\_Data\_Structures** | (Future) Lists, Tuples, Dictionaries. | *(Planned)* |
+
+### Phase 2: Application & Web Development
+
+| Folder | Focus Technology | Output Goal |
+| :--- | :--- | :--- |
+| **04\_Web\_Basics** | HTML, CSS, JavaScript (Fundamentals). | *(Planned: First static web page)* |
+| **05\_Flask\_Projects** | Python Flask Framework. | *(Planned: Personal Portfolio Website hosted on GitHub)* |
+
+---
+
+## 🛠️ Tools & Methodology
+
+I use a professional methodology to manage my code and document my progress.
+
+* **Version Control System (VCS):** Git
+* **Hosting Platform:** GitHub
+* **Methodology:** Every lesson is documented with a dedicated, commented `.py` file, committed with a detailed log message.
+
+***
+
+*Thank you for reviewing my progress. I am committed to continuous learning and application.*
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
